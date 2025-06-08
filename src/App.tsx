@@ -436,7 +436,7 @@ function App() {
               ))}
             </div>
           </div>
-        </div>
+      </div>
       </motion.nav>
 
       <main className="py-8">
@@ -511,7 +511,7 @@ function App() {
           </motion.div>
         </div>
       </motion.footer>
-    </div>
+      </div>
   )
 }
 
